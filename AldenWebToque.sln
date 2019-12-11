@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29201.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AldenWebToque", "AldenWebToque\AldenWebToque.csproj", "{5DE7ABBF-B0E3-491E-ABA0-E6D265F47107}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DE7ABBF-B0E3-491E-ABA0-E6D265F47107}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DE7ABBF-B0E3-491E-ABA0-E6D265F47107}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DE7ABBF-B0E3-491E-ABA0-E6D265F47107}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DE7ABBF-B0E3-491E-ABA0-E6D265F47107}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB5DB30C-6C2D-4ED2-A986-C03F97EDEEA6}
+	EndGlobalSection
+EndGlobal
